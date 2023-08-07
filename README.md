@@ -25,7 +25,7 @@ requiring developers to combine expertise in many fields,
 manually yet without any leeway for human mistake whatsoever.
 
 Completely new tools are thus required to effectively write private DApps.
-Our approach will offer a practical way to build and deploy private DApps on top of Filecoin.
+Our approach will offer a practical way to build and deploy private DApps on top of Solana.
 This presents a great opportunity for Filecoin, that can thereby leapfrog other blockchains
 in its support for private DApps, where it currently lags behind with regard to DApps.
 
